@@ -1,6 +1,6 @@
 # PrettyViews
 
-> Simple Laravel website allows users to create albums and insert pictures so they and other users can see.
+> This Laravel gallery website allows users to create albums and upload photos so they and other users can see.
 
 ## Notes:
 
